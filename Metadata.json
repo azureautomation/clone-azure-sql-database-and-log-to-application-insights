@@ -1,0 +1,20 @@
+{
+    "Author": "Ahmed Balogun",
+    "ContentSize": 4795,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/clone-azure-sql-database-and-log-to-application-insights/master/AzureDatabaseClone.ps1",
+    "DownloadCount": 704,
+    "Id": "Clone-Azure-SQL-Database-8ca9c16c",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 465,
+    "RaterCount": 1,
+    "Rating": 4.0,
+    "ReleaseDate": "2018-9-10T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This runbook is designed to copy a database and log to Application Insights for audit purposes. A runbook like\u00a0this might be implement to regularly keep a staging or testing environment database synced with a live production database",
+    "Title": "Clone Azure SQL Database and Log to Application Insights",
+    "UpdatedDate": "2018-9-10T00:00:00",
+    "Url": "https://github.com/azureautomation/clone-azure-sql-database-and-log-to-application-insights",
+    "UserTags": "Utility, Windows Azure SQL Database, Application Insights"
+}
